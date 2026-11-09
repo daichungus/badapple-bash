@@ -1,56 +1,49 @@
-# BadAppleBash
+# badapple-bash
 
-![Design sem nome](https://github.com/user-attachments/assets/329e599e-2284-4d9d-8936-3c166f85334d)
+This project reproduces the
+["Bad Apple!!"](https://youtu.be/9lNZ_Rnr7Jc) video with a Bash script,
+with all graphics rendered in ASCII art.
 
-This project reproduces the ["Bad Apple!!"](https://youtu.be/9lNZ_Rnr7Jc?si=ROgXrVvdx13oKPM4) video using Bash script, with all graphics rendered in ASCII art.
+Optional audio mode if `mpv` is installed on your system.
 
-- Why?
-- Why not :P
+## Why?
 
+As much as I don't like the endless amount of
+recreations of the frames of a shadow 3D animation of a vocal arrange
+of an FM-86 synth track from a 1998 PC-98 DOS game...
 
+Something in me wanted to preserve this repo after I found out
+the original repo and the account it belonged to were 404'd.
 
 ## Usage Instructions
-01. Clone the repository to your local environment:
-```bash
-git clone https://github.com/FelipeFMA/BadAppleBash.git
+
+Clone the repository to your local environment
+
+```sh
+git clone https://github.com/daichungus/badapple-bash.git
 ```
 
-02. Navigate to the project directory:
-```bash
-cd BadAppleBash
+Navigate to the project directory:
+
+```sh
+cd badapple-bash
 ```
 
-03. Make the `run.sh` script executable:
-```bash
+Make the `run.sh` script executable:
+
+```sh
 chmod +x run.sh
 ```
 
-04. Run the script:
-```bash
+Run the script
+
+```sh
 ./run.sh
 ```
 
----
-
-
-## Please consider donating
-Bitcoin:
-`bc1qnkq7hf6r53fg73jh3awfsn6ydeh87u5cf8hs3g`
-
-![bitcoin](https://github.com/user-attachments/assets/9aaf40c6-6bdb-4480-8bdd-05b9023613d9)
-
-Ko-fi:
-https://ko-fi.com/felipefma
-
-Paypal:
-felipefmavelar@gmail.com
-
-Brazilian Pix:
-felipefmavelar@gmail.com
-
----
-
-
 ## Credits
 
-This project is a fork of [trung-kieen/bad-apple-ascii](https://github.com/trung-kieen/bad-apple-ascii). Special thanks to the original creator for their work!
+This repo originally belonged to Felipe Avelar.
+
+This project is a fork of
+[trung-kieen/bad-apple-ascii](https://github.com/trung-kieen/bad-apple-ascii).
